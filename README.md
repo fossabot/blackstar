@@ -1,6 +1,7 @@
 # Blackstar
 
 ![blackstar banner](https://ik.imagekit.io/vmimm0jfp/blackberryhazard/blackstar.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fblackberryhazard-org%2Fblackstar.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fblackberryhazard-org%2Fblackstar?ref=badge_shield)
 
 Blackstar is a WhatsApp & Telegram bot that runs simultaneously in one process, with the aim of making the two bots integrated with each other. 
 
@@ -123,3 +124,7 @@ Starseed utilizes the following external APIs:
 - [ZenzzXD](https://github.com/ZenzzXD) — Zennz API
 
 These services are used as external integrations and are not directly affiliated with the development of Starseed.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fblackberryhazard-org%2Fblackstar.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fblackberryhazard-org%2Fblackstar?ref=badge_large)
